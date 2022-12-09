@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="pageStyle"
+>
+  <div
+    className="componentLogoHeader"
+  >
+    <div>
+      <img
+        alt="missingLogo"
+        className="loginImage"
+        src="logo.png"
+      />
+    </div>
+  </div>
+  <nav
+    className="navbar navbar-expand-lg navbar-light bg-light"
+  >
+    <button
+      className="btn btn-outline-dark"
+      disabled={false}
+      onClick={[Function]}
+      type="button"
+    >
+      Add New Missing Person
+    </button>
+    <button
+      className="ms-2 btn btn-outline-dark"
+      disabled={false}
+      onClick={[Function]}
+      type="button"
+    >
+      View Users
+    </button>
+    <button
+      className="ms-5 btn btn-outline-dark"
+      disabled={false}
+      onClick={[Function]}
+      type="button"
+    >
+      Logout
+    </button>
+  </nav>
+</div>
+`;

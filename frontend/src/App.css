@@ -1,0 +1,52 @@
+#loginDiv {
+    margin: auto;
+    margin-top: 2%;
+    width: 50%;
+    border: 3px solid rgb(50, 52, 50);
+    padding: 20px;
+}
+
+.loginImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.pageStyle {
+    margin: auto;
+    margin-top: 2%;
+    width: 90%;
+    border: 3px solid rgb(50, 52, 50);
+    padding: 20px; 
+}
+
+.componentLogoHeader {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+
+#contactButtonDiv {
+    margin: auto;
+    margin-top: 2%;
+    width: 90%;
+    border: 3px solid rgb(50, 52, 50);
+    padding: 20px;
+}
+
+.individualCard {
+    height: auto;
+    float: left;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 3%;
+}
+
+.userCardStyling {
+   margin: 5%;
+   line-height: 2%;
+}
